@@ -1,0 +1,163 @@
+.main-section-eader-rating {
+  padding: 23px;
+  background: #EDEDED;
+}
+.star-rating-heading h4{
+  font-family: Lexend;
+font-size: 40px;
+font-weight: 400;
+text-align: center;
+margin: 0px;
+
+}
+.rating-dataing-image span {
+  font-size: 60px;
+  background: #00B67A;
+  color: white;
+  padding: 3px;
+  width: 38px;
+  height: 23px;
+  border-radius: 1px;
+  margin-right: 4px;
+}
+.rating-dataing-image span:last-child {
+  background: linear-gradient(to right, #00B67A 50%, 
+  
+#D9D9D9 50%); /* Half red, half blue background */
+
+}.heading-section-home h3{
+  font-family: Lexend;
+font-size: 26px;
+font-weight: 400;
+text-align: center;
+margin: 10px;
+
+}.data-underline {
+  text-decoration: underline;
+}.rating-dataing-Trustpilot span{
+  font-size: 60px;
+  color: #00B67A;
+  
+ 
+
+}.Trustpilot {
+  color: black!important;
+  font-family: Lexend;
+font-size: 34px !important;
+font-weight: 400;
+text-align: center;
+
+}
+.menu-items-list-footer{
+  text-align: left;
+}
+.menu-items-list-footer li a{
+
+color: black;
+text-decoration: none;
+}
+
+.menu-items-list-footer li {
+list-style: none;
+}
+.rating-dataing-image-footer span{
+  font-size: 30px;
+  background: #00B67A;
+  color: white;
+  padding: 3px;
+  width: 38px;
+  height: 23px;
+  border-radius: 1px;
+  margin-right: 4px;
+}
+.rating-data-heading-exe h4 {
+  font-family: Lexend;
+  font-size: 27px;
+  font-weight: 400;
+  margin-top: 10px;
+  margin: 0px;
+  padding-top: 6px;
+}
+.rating-data-heading-exe h4 {
+margin-top: 6px;
+
+}
+.rating-data-heading-exe li {
+  font-family: Lexend;
+  font-size: 15px;
+  font-weight: 600px;
+  font-weight: 500;
+  line-height: 23px;
+}
+.data-list-item{
+  display: flex;
+}
+.header-menu {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 32px;
+}
+.rating-dataing-Trustpilot {
+  margin-bottom: 13px;
+}
+.arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  font-size: 24px; 
+}
+
+.arrow.left {
+  left: 10px; 
+}
+
+.arrow.right {
+  right: 10px; 
+}
+
+.data-list-item {
+  display: flex;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  padding: 0 30px; 
+}
+
+.menu-items-list-footer {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+@media screen and (max-width:570px) {
+  .star-rating-heading h4{
+    font-size: 24px;
+  }.rating-dataing-image span {
+    font-size: 42px;
+    background: #00B67A;
+    color: white;
+    padding: 3px;
+    width: 38px;
+    height: 23px;
+    border-radius: 1px;
+    margin-right: 4px;
+}.heading-section-home h3 {
+  font-family: Lexend;
+  font-size: 19px;
+  font-weight: 400;
+  text-align: center;
+  margin: 10px;
+}.rating-dataing-Trustpilot span {
+  font-size: 41px;
+  color: #00B67A;
+}.Trustpilot {
+  color: black!important;
+  font-family: Lexend;
+  font-size: 24px !important;
+  font-weight: 400;
+  text-align: center;
+}
+}
+

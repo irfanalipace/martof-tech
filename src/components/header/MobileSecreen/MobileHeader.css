@@ -1,0 +1,128 @@
+
+@media screen and (max-width: 570px) {
+  .mobile-main-section .mobile-name-app {
+    font-size: 36px;
+  }
+
+  .mobile-soicial-media-flower,
+  .mobile-request-event {
+    font-size: 20px;
+  }
+
+  .mobile-header nav ul li {
+    display: inline-block; 
+    margin-bottom: 0; 
+    margin-right: 0px;
+  }
+
+  .mobile-header-sections button {
+    width: 138px; 
+    height: 61px; 
+  }.purchase-paragraph-heading h5 {
+    margin: 0px;
+    font-family: Lexend;
+    font-size: 17px;
+    font-weight: 400;
+    text-align: center;
+    color: #FFFFFF;
+  }
+  .search-bar {
+    max-width: 84%;
+  }
+  .purchase-paragraph-heading-date-final h5 {
+    font-family: Lexend;
+    color: white;
+    font-size: 17px;
+    font-weight: 400;
+    text-align: center;
+    margin: 0px;
+  }
+  .next-waiting-data {
+    padding: 12px;
+    font-family: Lexend;
+    font-size: 17px;
+    font-weight: 400;
+    text-align: center;
+    color: white;
+    margin-top: 12px;
+    margin-bottom: 12px;
+  }
+  .total-coutnt span {
+    font-family: Lexend;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 41px;
+    text-align: center;
+    color: white;
+  }
+  .paragraph-heading p {
+    line-height: 26px;
+    margin: 0px;
+    font-family: Lexend;
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+    color: #FFFFFF;
+  }MobileHeader.css
+
+  .mobile-header {
+    color: white;
+  }
+  .mobile-header-sections {
+    display: inline-block;
+    position: relative;
+    top: 0px;
+  }
+  
+  .mobile-name-app {
+    font-size: 24px; 
+  }
+  
+  .mobile-name-app-li-item {
+    font-size: 16px; 
+  }
+  
+  .mobile-soicial-media-flower {
+    font-size: 18px; 
+  }
+  
+  .mobile-request-event {
+    font-size: 18px;
+  }
+  
+  .mobile-header nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .mobile-header nav ul li {
+    display: block; 
+    margin-bottom: 10px; 
+  }
+  
+  .mobile-header-sections button {
+    width: 95%; 
+    height: 50px; 
+    border-radius: 9px; 
+    background-color: #22B3C1;
+    color: white;
+  }
+  .mobile-soicial-media-flower {
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+  }.mobile-request-event {
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+  }.mobile-phone-icon{
+    color: white;
+  }.mobile-main-section .mobile-name-app {
+    font-size: 17px;
+    margin: 0px;
+    color: white;
+}.mobile-name-app-li-item {
+  font-size: 16px;
+  color: white;
+}
+}
